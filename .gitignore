@@ -53,6 +53,11 @@ web_modules/
 # Optional eslint cache
 .eslintcache
 
+node_modules/
+.env
+dist/
+build/
+
 # Optional stylelint cache
 .stylelintcache
 
